@@ -8,6 +8,7 @@ This is a collection of paintings. About the duck and related association creati
 ![IMG-0061](https://github.com/superbigisme/About-A-Duck/assets/142401284/cc43378c-778c-4302-9343-d22dc6317bbf)
 ![IMG-0062](https://github.com/superbigisme/About-A-Duck/assets/142401284/c9a47980-5a6b-4ca1-9dda-dc38e505ac74)
 ![IMG-0063](https://github.com/superbigisme/About-A-Duck/assets/142401284/efb721d1-ed7c-4758-8aa4-7f7141ef3e33)
+![未命名作品 2](https://github.com/superbigisme/About-A-Duck/assets/142401284/aa8ea23e-b6a6-4dee-94a5-f9544af0bc29)
 
 # The following is a CC BY 4.0 license.
 [![CC BY 4.0] (https://creativecommons.org/licenses/by/4.0/))
