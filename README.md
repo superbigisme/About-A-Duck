@@ -4,7 +4,7 @@ This is a collection of paintings. About the duck and related association creati
 # The following is a CC BY 4.0 license.
 [![CC BY 4.0] (https://creativecommons.org/licenses/by/4.0/))
 
-#signature statement
+# signature statement
 Appropriate attribution information should be included when the work is displayed or distributed. For example, next to your drawing, you could add the following text:
 
 Painting by [WuShuang], licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
